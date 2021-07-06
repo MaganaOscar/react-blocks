@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  padding: 1em;
+  background-color: #dddddd;
+}
+.flex {
+  display: flex;
+}
+
+.blockHeader {
+  background-color: #6aa84f;
+  height: 10em;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.blockNav {
+  background-color: #6fa8dc;
+  margin-right: 1%;
+  height: 40em;
+  width: 20%;
+}
+
+.blockMain {
+  background-color: #e06666;
+  height: 41.5em;
+  width: 89%;
+  padding: 1em;
+}
+
+.blockSubCont {
+  background-color: #ffd966;
+  height: 30em; 
+  width: 31.25%;
+  margin: 0 1%;
+  display: inline-block;
+}
+
+.advertisement {
+  background-color: #b4a7d6;
+  margin-top: 1em;
+  height: 10em;
+  width: 100%
+}
